@@ -5,11 +5,11 @@ Inkscape cheat sheets
 ![](https://forthebadge.com/images/badges/for-you.svg)
 
 This repository contains cheat sheets for Inkscape users. The cheat sheets were
-originally made as SVGs in Inkscape. They were then exported to PNGs and PDFs.
+originally made as SVGs. They were then exported to PNGs and PDFs.
 
 Inkscape is a professional vector graphics drawing tool. What especially nice
-is that Inkscape is libre & open-source software, and it is usually used by
-free software lovers, like the people at The Fedora Project or, maybe you!
+is that Inkscape is libre & open-source software, and it is used and beloved by
+free software lovers, like the people at The Fedora Project, or, maybe you!
 
 Available cheat sheets
 ----------------------
@@ -22,8 +22,8 @@ Directory structure
 -------------------
 
 - `src/`: Contains SVG source of the cheat sheets
-- `png/`: Exported PNGs of the cheat sheets
-- `pdf/`: Exported PDFs of the cheat sheets
+- `png/`: Contains exported PNGs of the cheat sheets
+- `pdf/`: Contains exported PDFs of the cheat sheets
 - `LICENSE`: A copy of the Creative Commons Zero v1.0 Universal
 - `README.md`: Overview information for this repository (which is the document
 that you're reading)
@@ -40,7 +40,7 @@ Contributing
 - Submit your own cheat sheets or your changes to existing cheat sheets by
 opening a pull request
 
-> **Notes**: If you submit SVGs, please make sure that they are plain SVGs.
+> **Note**: If you submit SVGs, please make sure that they are plain SVGs.
 See the note in the prior section.
 
 Thank you!
@@ -61,4 +61,21 @@ Other documents within this repository (like this README document you're
 reading) are likewise released under the terms of CC0 (except for `LICENSE`).
 
 [cc0-link]: https://creativecommons.org/publicdomain/zero/1.0/
+
+<!-- Use this text instead if the repository
+has a non-CC0-licensed cheat sheet  -->
+
+<!--
+
+Different cheat sheets are licensed under different licenses. Each cheat sheet
+entry in the section "Available cheat sheets" (above) is written along with its
+license's name. If you wish to download and use a cheat sheet, please read its
+license first (or at least a TL;DR version of it) to know your rights. All
+licenses used are placed inside the `LICENSE/` folder.
+
+Other documents within this repository (like this README document you're
+reading) are released under the terms of [Creative Commons Zero 1.0
+Universal][cc0-link] (except for `LICENSE`).
+
+-->
 
