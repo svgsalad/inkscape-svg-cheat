@@ -2,7 +2,7 @@ Inkscape cheatsheets
 ====================
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/for-you.svg)]
+![](https://forthebadge.com/images/badges/for-you.svg)
 
 This repository contains cheat sheets for Inkscape users. The cheat sheets were
 originally made as SVGs in Inkscape. They were then exported to PNGs and PDFs.
