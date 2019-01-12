@@ -9,6 +9,30 @@ the guidelines outlined in this document, so please, before submitting your
 contribution or thinking about contributing, take a few minutes to read this
 document first. It's not too long, so don't worry.
 
+Table of Content
+----------------
+
+1. [Whose contributions should these guidelines have effects on?][effect]
+2. [How you can contribute to this project][how-contrib]
+    - [Reporting something that is wrong][report]
+    - [Fixing the errors][fix]
+    - [Suggesting][suggest]
+    - [Submitting a new cheat sheet][submit]
+3. [Submitting SVGs][svg-guides]
+4. [Directory structure][dir]
+5. [Thank you!][thank]
+
+<!-- Headers -->
+[effect]: #whose-contributions-should-these-guidelines-have-effects-on
+[how-contrib]: #how-you-can-contribute-to-this-project
+[report]: #reporting-something-that-is-wrong
+[fix]: #fixing-the-errors
+[suggest]: #suggesting
+[submit]: #submitting-a-new-cheat-sheet
+[svg-guides]: #submitting-svgs
+[dir]: #directory-structure
+[thank]: #tada-thank-you-tada
+
 Whose contributions should these guidelines have effects on?
 ------------------------------------------------------------
 
@@ -33,11 +57,6 @@ There are several different ways to contribute:
 anything): [Tell us about it][suggest]
 - If you've created a new cheat sheet and wish to submit it to this repository:
 [**Do it**][submit]
-
-[report]: #reporting-something-that-is-wrong
-[fix]: #fixing-the-errors
-[suggest]: #suggesting
-[submit]: #submitting-a-new-cheat-sheet
 
 ### Reporting something that is wrong
 
@@ -70,7 +89,7 @@ There are 2 ways to submit:
 - [Send an e-mail][mail]
 
 > **Note**: If your submission includes SVGs, please make sure that they follow
-the guidelines for SVGs (see section ["Submitting SVGs"](#submitting-svgs)).
+the guidelines for SVGs (see section ["Submitting SVGs"][svg-guides]).
 
 ### Suggesting
 
@@ -96,6 +115,10 @@ can do so by doing one of the following:
 your own cheat sheet to the fork)
 - [Sending an e-mail][mail] with your cheat sheet attached
 
+If you choose to do the former, please make sure that the file(s) you've added
+is/are located correctly according to the
+[directory structure][dir].
+
 Please send your cheat sheet in 3 formats (if possible): SVG, PNG, and PDF.
 Otherwise, send it in SVG format. If your submission contains no SVG(s), you
 will be requested to submit the cheat sheet again, but in SVG format.
@@ -108,7 +131,7 @@ command line options, respectively.
 So please, take the time to export if you can.
 
 Your cheat sheet, as an SVG file, must comply with the guidelines for SVGs. See
-section ["Submitting SVGs"](#submitting-svgs) below.
+section ["Submitting SVGs"][svg-guides] below.
 
 Submitting SVGs
 ---------------
@@ -134,6 +157,24 @@ to, in addition, do the following:
 1. Keep the original license: Do not license the new SVG under a different
 license (at least without the permission of the original author)
 2. Add your name to the "Contributors" metadata
+
+Directory structure
+-------------------
+
+- `src/`: Contains SVG source of the cheat sheets
+- `png/`: Contains exported PNGs of the cheat sheets
+- `pdf/`: Contains exported PDFs of the cheat sheets
+- `LICENSE`: A copy of the Creative Commons Zero v1.0 Universal <sup>(\*)</sup>
+- `README.md`: Overview information for this repository
+- `CONTRIBUTING.md`: Contribution guidelines for this repository
+<sup>(\*\*)</sup>
+
+> (\*): The file stays there as long as all cheat sheets presented in the
+repository are CC0-licensed. If there is a presence of a non-CC0-licensed cheat
+sheet, a directory named "`LICENSES`" will be created and the CC0 copy will be
+placed in that directory along with other licenses of the cheat sheets.
+
+> (\*\*): The document that you're reading.
 
 :tada: Thank you! :tada:
 ========================
