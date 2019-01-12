@@ -18,7 +18,7 @@ Available cheat sheets
 
 This is a list of available cheat sheets in chronological order.
 
-1. Inkscape 0.92.3's bevels: [SVG](svg/bevels.svg) [PNG](png/bevels.svg)
+1. Inkscape 0.92.3's bevels: [SVG](src/bevels.svg) [PNG](png/bevels.png)
 [PDF](pdf/bevels.pdf)
 
 Directory structure
