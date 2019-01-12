@@ -16,7 +16,10 @@ Available cheat sheets
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 
-There's nothing here yet.
+This is a list of available cheat sheets in chronological order.
+
+1. Inkscape 0.92.3's bevels: [SVG](svg/bevels.svg) [PNG](png/bevels.svg)
+[PDF](pdf/bevels.pdf)
 
 Directory structure
 -------------------
