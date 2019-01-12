@@ -25,11 +25,9 @@ Directory structure
 - `png/`: Contains exported PNGs of the cheat sheets
 - `pdf/`: Contains exported PDFs of the cheat sheets
 - `LICENSE`: A copy of the Creative Commons Zero v1.0 Universal
+- `CONTRIBUTING.md`: Contributing guidelines for this repository
 - `README.md`: Overview information for this repository (which is the document
 that you're reading)
-
-> **Note**: The SVGs are plain SVGs. That means they contain no namespace that
-belongs to a specific vector graphics program (e.g. Inkscape namespaces).
 
 Contributing
 ------------
@@ -40,15 +38,15 @@ Contributing
 - Submit your own cheat sheets or your changes to existing cheat sheets by
 opening a pull request
 
-> **Note**: If you submit SVGs, please make sure that they are plain SVGs.
-See the note in the prior section.
+For a lot more detailed information, take the time to read [the contributing
+guidelines](CONTRIBUTING.md).
 
 Thank you!
 
 [o-issh]: https://github.com/svgsalad/inkscape-svg-cheat/issues/new
 
-Licese
-------
+License
+-------
 
 ![](https://forthebadge.com/images/badges/cc-0.svg)
 
@@ -78,4 +76,3 @@ reading) are released under the terms of [Creative Commons Zero 1.0
 Universal][cc0-link] (except for `LICENSE`).
 
 -->
-
