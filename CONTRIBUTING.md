@@ -169,7 +169,7 @@ sheets
 - `chshlistgen.sh`: Shell script that is used to generate the table you see in
 the prior section
 - `index`: Text file that indexes the metadata of all cheat sheets and is read
-by chshlistgen.sh
+by `chshlistgen.sh`
 - `CONTRIBUTING.md`: Contributing guidelines for this repository (the document
 you are reading)
 - `README.md`: Overview information for this repository

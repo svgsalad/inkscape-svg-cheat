@@ -31,11 +31,12 @@ Directory structure
 - `src/`: Contains SVG source of the cheat sheets
 - `png/`: Contains exported PNGs of the cheat sheets
 - `pdf/`: Contains exported PDFs of the cheat sheets
-- `LICENSES/`: Contains (copies of) all the licenses used by all of the cheat sheets
+- `LICENSES/`: Contains (copies of) all the licenses used by all of the cheat
+sheets
 - `chshlistgen.sh`: Shell script that is used to generate the table you see in
 the prior section
 - `index`: Text file that indexes the metadata of all cheat sheets and is read
-by chshlistgen.sh
+by `chshlistgen.sh`
 - `CONTRIBUTING.md`: Contributing guidelines for this repository
 - `README.md`: Overview information for this repository (which is the document
 that you're reading)
