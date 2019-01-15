@@ -1,0 +1,33 @@
+# index file
+#
+# This file is read by chshlistgen.sh to generate a Markdown table of available
+# cheat sheets. It contains metadata of every cheat sheet to be listed in the
+# table.
+#
+# Entries:
+#   #: Comment (which will be ignored)
+#   F: Cheat sheet's file name (excluding the file extension)
+#   T: Title
+#   A: Author
+#   D: Description
+#   C: Contributors (names are separated by a comma)
+#   L: License (full name)
+#   L (second entry): License's copy's file name (in LICENSES/)
+#
+# The entries should be written in the exact same order as presented above.
+# The only required entry is F (cheat sheet's file name). Without it, other
+# entries of the cheat sheet will be ignored, and the cheat sheet won't appear
+# in the output table.
+#
+# Metadata entries belonging to the same cheat sheet must be written close
+# together (with no empty line break). Groups of entries belonging to different
+# cheat sheets must be separated by at least one empty line.
+
+F: bevels
+T: Inkscape 0.92.3's Bevels
+A: Nguyen Hoang Duong
+D: A showcase of existing bevels in Inkscape 0.92.3.
+L: Creative Commons Zero v1.0 Universal
+L: CC0
+
+# This line of comment must be preserved.
