@@ -16,6 +16,9 @@ Available cheat sheets
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 
+> **Note**: In cells of the "Contributors" column, the original authors' names
+are written in **bold**.
+
 <!-- Generated with chshlistgen.sh -->
 
 |Preview|Title|Description|Contributors|License|
