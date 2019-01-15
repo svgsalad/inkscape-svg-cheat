@@ -164,17 +164,15 @@ Directory structure
 - `src/`: Contains SVG source of the cheat sheets
 - `png/`: Contains exported PNGs of the cheat sheets
 - `pdf/`: Contains exported PDFs of the cheat sheets
-- `LICENSE`: A copy of the Creative Commons Zero v1.0 Universal <sup>(\*)</sup>
+- `LICENSES/`: Contains (copies of) all the licenses used by all of the cheat
+sheets
+- `chshlistgen.sh`: Shell script that is used to generate the table you see in
+the prior section
+- `index`: Text file that indexes the metadata of all cheat sheets and is read
+by chshlistgen.sh
+- `CONTRIBUTING.md`: Contributing guidelines for this repository (the document
+you are reading)
 - `README.md`: Overview information for this repository
-- `CONTRIBUTING.md`: Contribution guidelines for this repository
-<sup>(\*\*)</sup>
-
-> (\*): The file stays there as long as all cheat sheets presented in the
-repository are CC0-licensed. If there is a presence of a non-CC0-licensed cheat
-sheet, a directory named "`LICENSES`" will be created and the CC0 copy will be
-placed in that directory along with other licenses of the cheat sheets.
-
-> (\*\*): The document that you're reading.
 
 :tada: Thank you! :tada:
 ========================
