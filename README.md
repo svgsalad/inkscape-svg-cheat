@@ -51,31 +51,15 @@ Thank you!
 License
 -------
 
-![](https://forthebadge.com/images/badges/cc-0.svg)
-
-The cheat sheets are licensed under the [Creative Commons Zero 1.0
-Universal][cc0-link] (or CC0 for short). That means they are in the Public
-Domain and you can, basically, do whatever you want. Crediting is very much
-appreciated, but is not mandatory.
-
-Other documents within this repository (like this README document you're
-reading) are likewise released under the terms of CC0 (except for `LICENSE`).
-
-[cc0-link]: https://creativecommons.org/publicdomain/zero/1.0/
-
-<!-- Use this text instead if the repository
-has a non-CC0-licensed cheat sheet  -->
-
-<!--
-
 Different cheat sheets are licensed under different licenses. Each cheat sheet
 entry in the section "Available cheat sheets" (above) is written along with its
 license's name. If you wish to download and use a cheat sheet, please read its
 license first (or at least a TL;DR version of it) to know your rights. All
-licenses used are placed inside the `LICENSE/` folder.
+licenses used are placed inside the `LICENSES` folder.
 
 Other documents within this repository (like this README document you're
 reading) are released under the terms of [Creative Commons Zero 1.0
 Universal][cc0-link] (except for `LICENSE`).
 
--->
+[cc0-link]: https://creativecommons.org/publicdomain/zero/1.0/
+
