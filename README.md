@@ -16,10 +16,11 @@ Available cheat sheets
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 
-This is a list of available cheat sheets in chronological order.
+<!-- Generated with chshlistgen.sh -->
 
-1. Inkscape 0.92.3's bevels: [SVG](src/bevels.svg) [PNG](png/bevels.png)
-[PDF](pdf/bevels.pdf)
+|Preview|Title|Description|Contributors|License|
+|:---:|:---:|---|:---:|:---:|
+|<img width="300" src="png/bevels.png" /><br />[SVG](src/bevels.svg) -- [PNG](png/bevels.png) -- [PDF](pdf/bevels.pdf)|Inkscape 0.92.3's Bevels|A showcase of existing bevels in Inkscape 0.92.3.|**Nguyen Hoang Duong**|[Creative Commons Zero v1.0 Universal](LICENSES/CC0)|
 
 Directory structure
 -------------------
@@ -62,4 +63,3 @@ reading) are released under the terms of [Creative Commons Zero 1.0
 Universal][cc0-link] (except for `LICENSE`).
 
 [cc0-link]: https://creativecommons.org/publicdomain/zero/1.0/
-
