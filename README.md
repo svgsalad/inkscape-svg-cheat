@@ -24,6 +24,7 @@ are written in **bold**.
 |Preview|Title|Description|Contributors|License|
 |:---:|:---:|---|:---:|:---:|
 |<img width="300" src="png/bevels.png" /><br />[SVG](src/bevels.svg) -- [PNG](png/bevels.png) -- [PDF](pdf/bevels.pdf)|Inkscape 0.92.3's Bevels|A showcase of existing bevels in Inkscape 0.92.3.|**Nguyen Hoang Duong**|[Creative Commons Zero v1.0 Universal](LICENSES/CC0)|
+|<img width="300" src="png/blurs.png" /><br />[SVG](src/blurs.svg) -- [PNG](png/blurs.png) -- [PDF](pdf/blurs.pdf)|Blur effects in Inkscape 0.92.3|A showcase of existing blur effects in Inkscape 0.92.3.|**Nguyen Hoang Duong**|[Creative Commons Zero v1.0 Universal](LICENSES/CC0)|
 
 Directory structure
 -------------------
