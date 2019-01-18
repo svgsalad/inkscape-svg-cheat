@@ -58,6 +58,24 @@ Thank you!
 
 [o-issh]: https://github.com/svgsalad/inkscape-svg-cheat/issues/new
 
+TODO
+----
+
+- [ ] Create more cheat sheets <sup>[!]</sup> <sup>[\*]</sup>
+- [ ] Create a Shell script that enables switching between 2 different directory
+structures (cheat sheets are grouped either by file type or by name)
+- [ ] Update the contributing guidelines as well as any document and code
+comment that refers to the directory structure, after completing the prior to-do
+task
+- [ ] Make PowerShell ports of the Shell scripts <sup>[!]</sup>
+- [ ] Make `chshlistgen.sh` parse data from the SVG files instead of `index`
+<sup>[!]</sup>
+
+> **[!]**: Help wanted
+
+> **[\*]**: This TODO list entry will remain unchecked until the repository gets
+archived
+
 License
 -------
 
