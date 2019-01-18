@@ -14,7 +14,7 @@ if ! [ -d src ] || ! [ -f index ]; then
 fi
 
 # No cheat sheet = No table for you
-if [ -z $(ls src) ]; then
+if [[ -z $(ls src) ]]; then
     echo "FATAL: No cheat sheet found in src/"
     exit 2
 fi
@@ -86,9 +86,9 @@ do
 
         if [[ -n $(command -v inkscape) ]]; then
             ! [[ -f png/$chsh_fname.png ]] && \
-                inkscape --export-png="png/$chsh_fname.png" src/$chsh_fname.svg
+                inkscape --export-png="png/$chsh_fname.png" src/$chsh_fname.svg &>/dev/null
             ! [[ -f pdf/$chsh_fname.pdf ]] && \
-                inkscape --export-pdf="pdf/$chsh_fname.pdf" src/$chsh_fname.svg
+                inkscape --export-pdf="pdf/$chsh_fname.pdf" src/$chsh_fname.svg &>/dev/null
         fi
 
         # Set values and Markdown snippets
